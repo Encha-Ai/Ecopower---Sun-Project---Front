@@ -51,3 +51,5 @@ npm run dev
 ```
 
 Acesse: `http://localhost:5173`
+
+link para documentação total do sistema https://docs.google.com/document/d/1eInslBwVowLdy_VZyuUKiurLKQIARPydLFYrp6u9wLU/edit?usp=sharing
